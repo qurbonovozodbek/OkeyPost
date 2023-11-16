@@ -877,3 +877,320 @@ h2 {
     cursor: pointer;
     background: #68b597;
 }
+.h120 {
+    width: 920px;
+    color: var(--1, #1F2428);
+font-size: 44px;
+font-style: normal;
+font-weight: 800;
+line-height: 56px; /* 127.273% */
+margin: 0;
+margin-bottom: 20px;
+margin-top: 150px;
+}
+.not_found {
+    width: 607px;
+    color: var(--1, #1F2428);
+font-size: 20px;
+font-style: normal;
+font-weight: 300;
+line-height: 36px; /* 180% */
+margin: 0;
+margin-bottom: 40px;
+}
+.cardlar {
+    display: flex;
+    gap: 30px;
+}
+
+.cash {
+    width: 447px;
+    padding: 35px 47px 51px 37px;
+    border-radius: 16px;
+background: var(--5, #FFF);
+box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.10);
+}
+.cash h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.cash p {
+    color: var(--1, #1F2428);
+font-family: Gilroy;
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: 26px; /* 162.5% */
+opacity: 0.7;
+}
+.oclock {
+    width: 447px;
+    padding: 35px 47px 51px 37px;
+    border-radius: 16px;
+background: var(--5, #FFF);
+box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.10);
+}
+.oclock h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.oclokc p {
+    color: var(--1, #1F2428);
+font-family: Gilroy;
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: 26px; /* 162.5% */
+opacity: 0.7;
+}
+
+.phone {
+    width: 447px;
+    padding: 35px 82px 51px 37px;
+    border-radius: 16px;
+background: var(--5, #FFF);
+box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.10);
+}
+.phone:hover {
+    cursor: pointer;
+    background: yellow;
+}
+.cash:hover {
+    cursor: pointer;
+    background: yellow;
+}
+.oclock:hover {
+    cursor: pointer;
+    background: yellow;
+}
+.phone h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.phone p {
+    color: var(--1, #1F2428);
+font-family: Gilroy;
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: 26px; /* 162.5% */
+opacity: 0.7;
+}
+
+.bloger {
+    width: 671px;
+    margin-top: 80px;
+}
+
+.blogers1 {
+    display: flex;
+    gap: 30px;
+}
+.nikolay {
+    display: flex;
+    padding: 10px 34px 10px 10px;
+    border-radius: 16px;
+background: var(--5, #FFF);
+box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.10);
+}
+.nikolay:hover {
+    cursor: pointer;
+    background: lightcyan;
+}
+.dimitry {
+    display: flex;
+    padding: 10px 35px 10px 10px;
+    border-radius: 16px;
+background: var(--5, #FFF);
+box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.10);
+}
+.dimitry:hover {
+    cursor: pointer;
+    background: lightcyan;
+}
+.nikolay_text {
+    margin-left: 38px;
+}
+.nikolay_text h4 {
+    margin-top: 22px;
+    margin-bottom: 6px;
+}
+.nikolay_text p {
+    width: 363px;
+    color: var(--1, #1F2428);
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: 26px; /* 162.5% */
+margin-bottom: 67px;
+}
+.manzil {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.manzil h4 {
+    width: 50px;
+    color: var(--1, #1F2428);
+font-family: Gilroy;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 171.429% */
+margin: 0;
+
+}
+.manzil p {
+    width: 128px;
+    margin: 0;
+    color: var(--1, #1F2428);
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: 24px; /* 171.429% */
+}
+.dimitry_p {
+    width: 280px;
+    width: 0;
+    color: var(--1, #1F2428);
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: 26px; /* 162.5% */
+margin-bottom: 67px;
+}
+.blogers2 {
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+}
+.bloger_btn {
+    padding: 22px 49px 22px 49px;
+    border-radius: 36px;
+background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
+box-shadow: 0px 4px 4px 0px rgba(1, 203, 124, 0.20);
+border: none;
+margin-top: 50px;
+
+color: var(--1, #FFF);
+text-align: center;
+font-family: Gilroy;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: 18px; /* 105.882% */
+cursor: pointer;
+}
+.bloger_btn:hover {
+    background: #72ebbb;
+}
+
+.infor {
+    width: 1293px;
+    margin: 0;
+    margin-bottom: 10px;
+    margin-top: 150px;
+
+}
+.paragraph1 {
+    width: 1400px;
+    color: var(--1, #1F2428);
+font-family: Gilroy;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: 36px; /* 200% */
+margin-bottom: 15px;
+opacity: 0.8;
+}
+.paragraph2 {
+    width: 1350px;
+    color: var(--1, #1F2428);
+font-family: Gilroy;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: 36px; /* 200% */
+margin-bottom: 15px;
+opacity: 0.8;
+}
+.paragraph3 {
+    width: 1400px;
+    color: var(--1, #1F2428);
+font-family: Gilroy;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: 36px; /* 200% */
+margin-bottom: 15px;
+opacity: 0.8;
+}
+.paragraph4 {
+    width: 1400px;
+    color: var(--1, #1F2428);
+font-family: Gilroy;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: 36px; /* 200% */
+opacity: 0.8;
+}
+.input_card {
+    padding: 66px 200px 64px 200px;
+    border-radius: 36px;
+background: linear-gradient(80deg, #5B52A3 1.08%, #40B8EA 100%);
+display: flex;
+align-items: center;
+margin-top: 150px;
+}
+.input_card h3 {
+    width: 482px;
+    color: var(--4, #FFF);
+font-family: Gilroy;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px; /* 133.333% */
+}
+.email {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 23px;
+    margin-left: 114px;
+    margin-right: 51px;
+}
+input {
+    outline: none;
+    background: inherit;
+    border: none;
+    margin-left: 15px;
+    margin-right: 330px;
+}
+input::placeholder {
+    color: var(--4, #FFF);
+font-family: Gilroy;
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: 16px; /* 100% */
+opacity: 0.7;
+}
+.input_btn {
+    padding: 22px 49px 22px 49px;
+    border-radius: 36px;
+background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
+box-shadow: 0px 4px 4px 0px rgba(1, 203, 124, 0.20);
+border: none;
+
+color: var(--1, #FFF);
+text-align: center;
+font-family: Gilroy;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: 18px; /* 105.882% */
+cursor: pointer;
+}
+.input_btn:hover {
+    background: #72ebbb;
+}
